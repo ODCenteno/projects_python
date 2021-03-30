@@ -1,0 +1,4 @@
+venv/
+*DS_*
+*.png
+*.jpg
